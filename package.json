@@ -1,0 +1,35 @@
+{
+  "name": "antd-form-smart",
+  "version": "1.0.0",
+  "description": "antd form is powerful components，and the actual form has more scene, for example: form input and form data view. the package help develop simplify this thing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiqide/antd-form-smart.git"
+  },
+  "keywords": [
+    "antd",
+    "form"
+  ],
+  "author": "guiqide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guiqide/antd-form-smart/issues"
+  },
+  "homepage": "https://github.com/guiqide/antd-form-smart#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "lerna": "^3.22.1"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.15.2",
+    "@typescript-eslint/parser": "^4.15.2",
+    "antd": "^4.12.3",
+    "eslint": "^7.20.0",
+    "react": "^17.0.1",
+    "typescript": "^4.2.2"
+  }
+}
